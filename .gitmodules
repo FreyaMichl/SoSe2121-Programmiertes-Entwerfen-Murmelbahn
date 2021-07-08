@@ -1,0 +1,3 @@
+[submodule "KirbyBahn"]
+	path = KirbyBahn
+	url = https://github.com/FreyaMichl/KirbyBahn.git
